@@ -34,6 +34,5 @@ This project explores whether my food choices are healthy or unhealthy using mac
 - **Jupyter Notebook & Google Colab**  
 
 ## **How to Use**  
-1. Clone the repository  
-2. Install dependencies (`pip install -r requirements.txt`)  
+1. Clone the repository `git clone` https://github.com/sanamehta/healthy-unhealthy
 3. Run `cs156-pipeline2.ipynb` to train and evaluate models  
